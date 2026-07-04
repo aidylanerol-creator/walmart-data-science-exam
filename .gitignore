@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Artefactos de entorno
+.DS_Store
+Thumbs.db
+
+# Carpetas/archivos ajenos al entregable
+WM/
+Untitled.ipynb
