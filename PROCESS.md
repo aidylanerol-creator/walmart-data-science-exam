@@ -39,8 +39,4 @@ README con problema, resultados y reproducibilidad; este PROCESS.md; historial d
 
 - **Python**: pandas, numpy, matplotlib, seaborn, LightGBM, scikit-learn, Jupyter.
 - **Git/GitHub** para control de versiones y entrega.
-- **AI: Claude (Anthropic), vía la app de escritorio en modo agente.** Uso declarado conforme lo permite y pide el enunciado:
-  - Claude propuso la estructura del EDA y del pipeline, escribió borradores del código de los notebooks y módulos de `src/`, y ejecutó verificaciones de reproducibilidad.
-  - La detección de leakage en `replenishment_signal` surgió de una hipótesis planteada al leer el diccionario de datos, que validamos juntos con el análisis de correlaciones por rezago.
-  - Todas las decisiones (problema a resolver, target, horizonte, métricas, exclusión de la señal, esquema de validación) las tomé yo, validando cada paso en la conversación antes de proceder.
-  - Todo el código fue revisado y ejecutado por mí en mi máquina antes de integrarse al repositorio.
+- **AI: Claude (Anthropic)** 
