@@ -39,4 +39,4 @@ README con problema, resultados y reproducibilidad; este PROCESS.md; historial d
 
 - **Python**: pandas, numpy, matplotlib, seaborn, LightGBM, scikit-learn, Jupyter.
 - **Git/GitHub** para control de versiones y entrega.
-- **AI: Claude (Anthropic)** 
+- **AI: Claude (Anthropic).** 
